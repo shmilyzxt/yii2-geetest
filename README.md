@@ -38,7 +38,7 @@ configure module like this:
 ```
 
 ```php
-<?= \shmilyzxt\geetest\GeetestWidget::widget(['type'=>'pcpop']); ?>
+<?= \shmilyzxt\geetest\GeetestWidget::widget(['type'=>'popup']); ?>
 ```
 
 Note
