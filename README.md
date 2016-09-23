@@ -38,4 +38,4 @@ configure module like this:
 ```
 
 ```php
-<?= \shmilyzxt\geetest\AutoloadExample::widget(['type'=>'pcpop']); ?>```
+<?= \shmilyzxt\geetest\GeetestWidget::widget(['type'=>'pcpop']); ?>```
