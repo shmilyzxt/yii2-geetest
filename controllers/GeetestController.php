@@ -14,14 +14,6 @@ use yii\web\Controller;
 
 class GeetestController extends Controller
 {
-    public function actionIndex(){
-        echo "here";die;
-    }
-    
-    public function actionPcpop(){
-       return $this->renderAjax("pcpop");
-    }
-
     public function actionStartcaptchaservlet(){
         $lib = new GeetestLib($this->module->geetestId,$this->module->geetestKey);
 

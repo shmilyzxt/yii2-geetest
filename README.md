@@ -43,4 +43,4 @@ configure module like this:
 Note
 -----
 
-you may need modify shmilyzxt/yii2-geetest/assets/*.js to deal your validate action.
+you may need modify shmilyzxt/yii2-geetest/assets/*.js and shmilyzxt/yii2-geetest/controller/GeetestController actionVerifyloginservlet to deal your validate action.
