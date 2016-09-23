@@ -39,3 +39,8 @@ configure module like this:
 
 ```php
 <?= \shmilyzxt\geetest\GeetestWidget::widget(['type'=>'pcpop']); ?>```
+
+Note
+-----
+
+you may need modify shmilyzxt/yii2-geetest/assets/*.js to deal your validate action.
