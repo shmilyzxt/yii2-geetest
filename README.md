@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \shmilyzxt\geetest\AutoloadExample::widget(); ?>```
+<?= \shmilyzxt\geetest\AutoloadExample::widget(['type'=>'pcpop']); ?>```
