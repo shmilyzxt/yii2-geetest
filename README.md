@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist shmilyzxt/yii2-geetest "*"
+php composer.phar require shmilyzxt/yii2-geetest "dev-master"
 ```
 
 or add
 
 ```
-"shmilyzxt/yii2-geetest": "*"
+"shmilyzxt/yii2-geetest": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
