@@ -38,9 +38,10 @@ configure module like this:
 ```
 
 ```php
-<?= \shmilyzxt\geetest\GeetestWidget::widget(['type'=>'pcpop']); ?>```
+<?= \shmilyzxt\geetest\GeetestWidget::widget(['type'=>'pcpop']); ?>
+```
 
 Note
 -----
 
-you may need modify shmilyzxt/yii2-geetest/assets/*.js and shmilyzxt/yii2-geetest/controller/GeetestController actionVerifyloginservlet to deal your validate action.
+you may need modify shmilyzxt/yii2-geetest/assets/*.js and shmilyzxt/yii2-geetest/controller/GeetestController `actionVerifyloginservlet` to deal your validate action.
